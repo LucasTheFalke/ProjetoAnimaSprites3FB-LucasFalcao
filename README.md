@@ -55,4 +55,4 @@ This project was brought to life using amazing free-to-use graphical assets and 
 ## 🛠️ Built With
 
 * **Game Engine:** Unity (C#)
-* **Version:** Unity 6
+* **Version:** Unity 6(6000.6.2f1)
