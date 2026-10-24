@@ -2,8 +2,8 @@
 
 > A charming and action-packed 2D arcade flappy-bird like shooter where our fluffy hero takes to the skies to save the day!
 
-* **Play in your browser:** [Insert Unity WebGL Link Here]
-* **Watch gameplay & trailer:** [Insert YouTube Video Link Here]
+* **Play in your browser:** [https://play.unity.com/pt/games/53dca8bf-328b-4e63-919e-7f2069b358b9/webgl-builds]
+* **Watch gameplay:** [https://youtu.be/zCp3ByiifIY]
 ---
 
 ## About the Game
@@ -38,8 +38,8 @@ Your mission? Take control of Felpudo's airplane and patrol the skies under pres
 
 ## Play Now & Watch
 
-* **Play in your browser:** [Insert Unity WebGL Link Here]
-* **Watch gameplay & trailer:** [Insert YouTube Video Link Here]
+* **Play in your browser:** [https://play.unity.com/pt/games/53dca8bf-328b-4e63-919e-7f2069b358b9/webgl-builds]
+* **Watch gameplay:** [https://youtu.be/zCp3ByiifIY]
 
 ---
 
