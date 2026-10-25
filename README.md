@@ -56,9 +56,6 @@ This project was brought to life using amazing free-to-use graphical assets and 
 
 * **Game Engine:** Unity (C#)
 * **Version:** Unity 6(6000.6.2f1)
-```markdown
-
----
 
 # A Missão Aérea de Felpudo
 
@@ -67,6 +64,8 @@ This project was brought to life using amazing free-to-use graphical assets and 
 * **Jogue no navegador:** [https://play.unity.com/pt/games/53dca8bf-328b-4e63-919e-7f2069b358b9/webgl-builds]
 * **Assista à gameplay:** [https://youtu.be/zCp3ByiifIY]
 
+---
+TRADUÇÃO
 ---
 
 ## Sobre o jogo
@@ -115,8 +114,7 @@ Este projeto ganhou vida com a ajuda de incríveis recursos gráficos gratuitos 
 
 ---
 
-## 🛠️ Desenvolvido com a:
+## 🛠️ Desenvolvido com
 
 * **Motor de jogo:** Unity (C#)
 * **Versão:** Unity 6 (6000.6.2f1)
-```
