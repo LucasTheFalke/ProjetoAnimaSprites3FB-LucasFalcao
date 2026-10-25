@@ -57,6 +57,10 @@ This project was brought to life using amazing free-to-use graphical assets and 
 * **Game Engine:** Unity (C#)
 * **Version:** Unity 6(6000.6.2f1)
 
+---
+TRADUÇÃO
+---
+
 # A Missão Aérea de Felpudo
 
 > Um jogo de tiro arcade 2D encantador e cheio de ação, no estilo *Flappy Bird*, em que nosso herói fofinho ganha os céus para salvar o dia!
@@ -64,8 +68,6 @@ This project was brought to life using amazing free-to-use graphical assets and 
 * **Jogue no navegador:** [https://play.unity.com/pt/games/53dca8bf-328b-4e63-919e-7f2069b358b9/webgl-builds]
 * **Assista à gameplay:** [https://youtu.be/zCp3ByiifIY]
 
----
-TRADUÇÃO
 ---
 
 ## Sobre o jogo
